@@ -1,0 +1,1 @@
+*/5 * * * * bash /home/blaher/restart.bash
